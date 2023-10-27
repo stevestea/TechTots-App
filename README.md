@@ -5,10 +5,7 @@
 
 ## Demo App
 
-<video width="320" height="240" controls>
-  <source src="./images/video.mov" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+https://drive.google.com/file/d/1Hb00-NEAGXsxF2IrN2bJjJhOQLfBySja/view?usp=sharing
 
 ## Table of Contents
 - [TechTots](#techtots)
